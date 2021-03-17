@@ -1,4 +1,4 @@
 # hello-world
 
-Primeiro arquivo criado para o Curso Intensivo da Cubos Academy
+Primeiro exercício realizado para o Curso Intensivo 'Programação do Zero" da Cubos Academy
 
